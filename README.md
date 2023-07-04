@@ -1,1 +1,2 @@
 # odin-recipes
+This is a single page website which contains 3 different recipes. All the recipes has its own html file and it contains an image, description, ingredients and steps to follow for using this recipe. Navigation between recipes can be done from the main index.html page.
